@@ -1,16 +1,16 @@
 ## Add a lovely background-image to your vscode.
 
-> 美女边框挂件&定时休息提示
+> 边框挂件&定时休息提示
 
 ## how to use
 
-> Click the gear in the lower left corner(⚙) Add/uninstall widget
+> **Click the gear in the lower left corner(⚙) Add/uninstall widget**
 > 点击左下角齿轮(⚙) 添加/卸载 挂件
-
-> Click the triangle in the lower left corner.When the countdown break is coming the rest is coming
+>
+> **Click the triangle in the lower left corner.When the countdown break is coming the rest is coming**
 > 点击左下角三角(▶️ 25:00)时钟 开始 倒计时休息的到来
-
-> The countdown time can be configured in the configuration
+>
+> **The countdown time can be configured in the configuration**
 > 可以在配置中配置倒计时时间
 
 ## It looks like:
